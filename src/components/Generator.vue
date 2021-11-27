@@ -393,13 +393,13 @@ export default {
           generator: 'btcGenerator',
           downloadWallet: 'https://github.com/deeponion/deeponion/releases',
         },
-        "doge": {
-          title: "Dogecoin",
-          logo: "static/coins/doge.png",
+        "dingo": {
+          title: "Dingocoin",
+          logo: "static/coins/dingo.png",
           public: 0x1e,
           private: 0x9e,
           generator: 'btcGenerator',
-          downloadWallet: 'https://dogecoin.com/',
+          downloadWallet: 'https://dingocoin.org/',
         },
         "eth": {
           title: "Ethereum",
